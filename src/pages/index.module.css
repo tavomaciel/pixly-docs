@@ -1,0 +1,23 @@
+.heroBanner {
+  text-align: center;
+  position: relative;
+  overflow: hidden;
+}
+
+.buttons {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.pixlyButton {
+  border: 5px solid transparent;
+  -webkit-border-image: url(/img/9pb.png) 25 fill;
+  -ms-border-image: url(/img/9pb.png) 25 fill;
+  -moz-border-image: url(/img/9pb.png) 25 fill;
+  -o-border-image: url(/img/9pb.png) 25 fill;
+  border-image: url(/img/9pb.png) 25 fill;
+  background-color: rgba(0, 0, 0, 0);
+  margin: 0px 5px 0px 5px;
+  font-size: 18px;
+}

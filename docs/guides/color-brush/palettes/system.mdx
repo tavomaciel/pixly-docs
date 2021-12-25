@@ -1,0 +1,37 @@
+---
+sidebar_position: 2
+title: System palettes
+---
+
+export const LospecPalette = ({paletteName, linkText}) => {
+    return (
+      <a href={`https://lospec.com/palette-list/${paletteName}`}>
+        <p>
+          {linkText}
+          <br/>
+          <img src={`https://lospec.com/palette-list/${paletteName}-32x.png`} alt={`${paletteName} on Lospec`}/>
+          {/* <img src={`https://lospec.com/palettes/${paletteName}/db-analysis.png`} alt={`${paletteName} on Lospec`}/> */}
+        </p>
+      </a>
+    );
+};
+
+Some palettes come bundled in Pixly, here's a list of the ones currently in this version:
+
++ <LospecPalette paletteName="pico-8" linkText="PICO-8"/>
++ <LospecPalette paletteName="nintendo-entertainment-system" linkText="NES"/>
++ <LospecPalette paletteName="6-bit-rgb" linkText="Master System"/>
++ <LospecPalette paletteName="nintendo-gameboy-arne" linkText="GameBoy"/>
++ <LospecPalette paletteName="ajmsx" linkText="MSX"/>
++ <LospecPalette paletteName="jmp-japanese-machine-palette" linkText="JMP"/>
++ <LospecPalette paletteName="arne-16" linkText="Arne16"/>
++ <LospecPalette paletteName="arne-32" linkText="Arne32"/>
++ <LospecPalette paletteName="dawnbringer-32" linkText="DB32"/>
++ <LospecPalette paletteName="commodore64" linkText="C-64"/>
++ <LospecPalette paletteName="color-graphics-adapter" linkText="CGA"/>
++ <LospecPalette paletteName="microsoft-windows" linkText="Win16"/>
++ <LospecPalette paletteName="apple-ii" linkText="Apple-II"/>
+
+More can be added at any time.
+
+The rights of these palettes are of their owners.

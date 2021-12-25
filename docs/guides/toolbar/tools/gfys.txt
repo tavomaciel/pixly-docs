@@ -1,0 +1,41 @@
+brush = SnappyQuickIcterinewarbler
+arc = ArcticAdoredBuckeyebutterfly
+curve = LimpingCourteousAfricancivet
+gradient = MediumDisguisedJaeger
+eraser = MenacingSlimyDragonfly
+bucket = InexperiencedAncientDiplodocus
+circle = BaggyImmediateIlladopsis
+marqueedel = WindingMildAddax
+marqueeadd = AdorableClosedIcefish
+line = CoolShallowBumblebee
+rect = TautNextGaur
+scatterer = JauntyScalyAmericancicada
+wand = BouncyLikableElephantseal
+patternstamp = ApprehensiveFearfulGazelle
+text = ShimmeringAnimatedHawaiianmonkseal
+selectbrush = VibrantAdeptBettong
+rainbowbrush = WideeyedDistantAsianporcupine
+colorpicker = OldSentimentalHoatzin
+move = SomberShyFishingcat
+
+big preview = SingleDecentComet
+layermove = FarawayFaithfulAmericanbobtail
+layerdelete = ThreadbareUnevenHapuku
+HandmadeShinyBedlingtonterrier
+layervisibility = BountifulImaginativeEuropeanfiresalamander
+layermerge = JollyCircularGoose
+toolbar = HotGlisteningAzurevase
+quickaccess = DapperWellgroomedKookaburra
+dailysilhouettes = HeartyFrighteningHamadryad
+color selector = DescriptiveAmpleFieldmouse
+Mirror test = CluelessGaseousGermanpinscher
+Mirror setup = MetallicNiftyBoar
+grids = CloudyCircularDugong
+tiles = DistortedAdmiredEyra
+canvasresize = ZealousYearlyBunting
+free transform = InformalMaleGodwit
+clear = GrizzledWhimsicalDikkops
+color replace = ScratchyGrayChuckwalla
+copy-paste = SmoothInfamousFirefly
+
+old pixly = FragrantRingedKakarikis
