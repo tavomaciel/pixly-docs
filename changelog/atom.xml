@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://pixly.tavomaciel.com/changelog</id>
+    <title>Pixly Changelog</title>
+    <updated>2021-12-27T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://pixly.tavomaciel.com/changelog"/>
+    <subtitle>Pixly Changelog</subtitle>
+    <icon>https://pixly.tavomaciel.com/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Pixly site has just been refreshed!]]></title>
+        <id>/2021/12/27/new-site</id>
+        <link href="https://pixly.tavomaciel.com/changelog/2021/12/27/new-site"/>
+        <updated>2021-12-27T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Faster, Updated guides with GIFs and more transparency to users!]]></summary>
+        <content type="html"><![CDATA[<p>Welcome to the new Pixly site. It&#x27;s been a while since the site last got a refresher, and since it started to return 403s at some point, I decided to migrate it to this new domain and upgrade a few things!</p><p>...</p><p>To start, <strong>every GIF has been fixed</strong>. At some point in the last 4 years GfyCat changed their API and the embedded GIFs here in the guide all went missing, but now they&#x27;re back!</p><p>Some of the documentation has also been updated, and <strong>wording has been improved</strong>. My English skills are now much better than when I first wrote all these :)</p><p>The documentation is now a modern web app. It has always been fully server-side rendered, but it would refresh the whole page when you navigated somewhere else. While that was still very fast (every render was obviously cached), it still wasn&#x27;t as instantaneous as it is now, as the browser fetches the content dynamically as you navigated. For the nerdies out there, the new site is developed with <a href="https://docusaurus.io">docusaurus</a>, and you see all the source on <a href="https://github.com/tavomaciel/pixly-docs">GitHub</a></p><p>Speaking of source, that also means that everyone can contribute to the guides, or help fix existing problems! You can find all the Markdown files for every guide page on <a href="https://github.com/tavomaciel/pixly-docs/tree/main/docs">GitHub</a> and submit your pull requests with changes!</p><p>This new site also include the <a href="/changelog">changelog</a> section (<em>which you are reading right now!</em>) and it will include information about any new updates to the app or site in the future. Changelogs are going to be a little bit more formal from the next post, so I also plan to include a DevLog in this site at some point, so I can talk about how things are being developed, and what to expect.</p><p>Stay tuned for the Pixly updates coming in 2022! There&#x27;s a lot already implemented for 1.8, and if you want a spoiler, check the <a href="https://trello.com/b/271M0NG9/pixly-todo">roadmap</a>!</p>]]></content>
+        <author>
+            <name>Gustavo Maciel</name>
+            <uri>https://twitter.com/gtoknu</uri>
+        </author>
+    </entry>
+</feed>
