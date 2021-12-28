@@ -11,13 +11,13 @@ Pixly is not complex and you can start pixeling right away, but since touchscree
 
 #### How should this guide be read?
 
-You may use this guide to [check if something is already implemented](./features.mdx), and if it isn't, you may send me an [e-mail](mailto:gus@tavomaciel.com) to ask for that to be implemented. If what you seek is already implemented and you want to know how to use it, dive into the table of contents into the right of this text to find pages teaching it.
+You may use this guide to [check if something is already implemented](./features.mdx), and if it isn't, [check the roadmap](https://trello.com/b/271M0NG9/pixly-todo) and vote on the card if it's there. You can [e-mail me](mailto:gus@tavomaciel.com) if you want to propose something that is not in the roadmap yet.
 
-If you just wanna learn more, don't be afraid to explore the table of contents, most pages will expand and reveal new ones inside them.
+If you just wanna learn more, don't be afraid to explore the menu (left on desktop, hamburguer icon on top for mobile), most pages will expand and reveal new ones inside them.
 
 If you don't know where to start, try reading [The Basics](./guides/basics.md) and going on from there.
 
-If you want to know how pixly started being developed, why, who I am, and who made this possible, read the [About page](./about.mdx).
+If you want to know how pixly started, why it was developed, who I am, and who made this possible, read the [About page](./about.mdx).
 
 ### Wait, wasn't this guide available at another domain?
 

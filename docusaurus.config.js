@@ -30,7 +30,25 @@ const config = {
           remarkPlugins: [math],
           rehypePlugins: [katex],
         },
-        blog: false,
+        blog: {
+          path: "changelog",
+          blogTitle: "Changelog",
+          blogDescription: "Changelog",
+          blogSidebarCount: 'ALL',
+          blogSidebarTitle: 'Recent updates',
+          routeBasePath: "changelog",
+          tagsBasePath: "tags",
+          remarkPlugins: [math],
+          rehypePlugins: [katex],
+          showReadingTime: false,
+          feedOptions: {
+            type: ['rss', 'atom', 'json'],
+            title: "Pixly Changelog",
+            description: "Pixly Changelog",
+
+          }
+        },
+        gtag: { trackingID: "G-J78NM9KLMG" },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
         },
@@ -60,10 +78,11 @@ const config = {
       hideableSidebar: false,
       metadata: [
         {name: 'author', content: 'Gustavo Maciel'},
-        {name: 'theme-color', content: '#333333'}
+        {name: 'theme-color', content: '#333333'},
+        {name: 'google-site-verification', content: 'xM5PCycxAjnZGBEtzw_NU0JpUIGOTGLqeSC66yer0tw'}
       ],
       navbar: {
-        hideOnScroll: false,
+        hideOnScroll: true,
         style: 'dark',
         title: 'Pixly',
         logo: {
@@ -80,10 +99,10 @@ const config = {
             docId: 'index',
             label: 'Guide',
           },
-          // {
-          //   to: '/changelog',
-          //   label: 'Changelog',
-          // },
+          {
+            to: 'changelog',
+            label: 'Changelog',
+          },
           {
             href: 'https://trello.com/b/271M0NG9/pixly-todo',
             label: "Roadmap",
