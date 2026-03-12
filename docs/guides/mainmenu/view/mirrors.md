@@ -2,12 +2,12 @@
 title: Mirrors
 sidebar_position: 2
 ---
-import GfyCat from '/src/components/GfyCat';
+import VideoEmbed from '/src/components/VideoEmbed';
 
 ### Setup
 On the mirror setup screen, hit *"Add Mirror"* to create a new mirror. Use one finger to drag the mirror around, and use two fingers to rotate that mirror.
 
-<GfyCat id="MetallicNiftyBoar"/>
+<VideoEmbed id="MetallicNiftyBoar"/>
 
 Up to 4 mirrors can be on the artboard at the same time.
 
@@ -15,7 +15,7 @@ Up to 4 mirrors can be on the artboard at the same time.
 
 Having a mirror on the screen mean everything you do to one side of it, will be reflected to the other side. Check out:
 
-<GfyCat id="CluelessGaseousGermanpinscher"/>
+<VideoEmbed id="CluelessGaseousGermanpinscher"/>
 
 This can be used to do all tricks with symmetry.
 

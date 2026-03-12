@@ -2,7 +2,7 @@
 title: Pattern Stamp
 sidebar_position: 5
 ---
-import GfyCat from '/src/components/GfyCat';
+import VideoEmbed from '/src/components/VideoEmbed';
 
 ![Icon](./icons/stamp.png)
 
@@ -19,6 +19,6 @@ It's a brush that will draw [patterns]. Commonly used for dithering!
   The transparent parents of the pattern will be coloured, and vice-versa.
   
 
-<GfyCat id="ApprehensiveFearfulGazelle"/>
+<VideoEmbed id="ApprehensiveFearfulGazelle"/>
 
 [patterns]: ../../color-brush/brush/patterns.md

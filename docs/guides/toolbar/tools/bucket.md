@@ -2,7 +2,7 @@
 title: Paint bucket
 sidebar_position: 10
 ---
-import GfyCat from '/src/components/GfyCat';
+import VideoEmbed from '/src/components/VideoEmbed';
 
 ![Icon](./icons/rainbowBrush.png)
 
@@ -23,6 +23,6 @@ Tap a place and get it all flooded by a single color!
   What is transparent will be coloured and vice-versa.
 
 
-<GfyCat id="InexperiencedAncientDiplodocus"/>
+<VideoEmbed id="InexperiencedAncientDiplodocus"/>
 
 [pattern]: ../../color-brush/brush/patterns.md

@@ -1,7 +1,7 @@
 ---
 title: Patterns
 ---
-import GfyCat from '/src/components/GfyCat';
+import VideoEmbed from '/src/components/VideoEmbed';
 
 ![patterns](./patterns.png)
 
@@ -11,7 +11,7 @@ The current selected pattern affect how some tools act, so remember to try out d
 
 You can change the current selected pattern on the [brush screen][brush], some tool settings even send you there as a shortcut.
 
-<GfyCat id="MediumDisguisedJaeger"/>
-<GfyCat id="ApprehensiveFearfulGazelle"/>
+<VideoEmbed id="MediumDisguisedJaeger"/>
+<VideoEmbed id="ApprehensiveFearfulGazelle"/>
 
 [brush]: ./index.md

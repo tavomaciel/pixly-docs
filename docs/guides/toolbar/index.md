@@ -1,7 +1,7 @@
 ---
 title: Toolbar
 ---
-import GfyCat from '/src/components/GfyCat';
+import VideoEmbed from '/src/components/VideoEmbed';
 
 The toolbar is where you'll find most of the tools you can use to draw transform your pixel art.
 
@@ -15,7 +15,7 @@ Hit it to reveal all the tools under your disposal:
 
 There's currently about 21 tools in Pixly, if not all of them fit on your screen (which is likely to happen), you can scroll the list up and down too see what's offscreen.
 
-<GfyCat id="HotGlisteningAzurevase"/>
+<VideoEmbed id="HotGlisteningAzurevase"/>
 
 Not all of the tools are in the main toolbar one example of such is the [Marquee (selection) tools][marquee], you can tap a parent tool to find out a second smaller toolbar by the side of the bigger one.
 

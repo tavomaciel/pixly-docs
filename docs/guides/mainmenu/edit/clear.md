@@ -2,11 +2,11 @@
 title: Clear
 sidebar_position: 1
 ---
-import GfyCat from '/src/components/GfyCat';
+import VideoEmbed from '/src/components/VideoEmbed';
 
 The **Clear** operation will erase pixels of the current layer. If no pixels are [selected][selected area] the full layer will be cleared, otherwise, only the [selected area] will be cleared.
 
-<GfyCat id="GrizzledWhimsicalDikkops"/>
+<VideoEmbed id="GrizzledWhimsicalDikkops"/>
 
 Erase is context dependant:
 

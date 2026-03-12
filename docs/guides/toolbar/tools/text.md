@@ -2,7 +2,7 @@
 title: Text tools
 sidebar_position: 9
 ---
-import GfyCat from '/src/components/GfyCat';
+import VideoEmbed from '/src/components/VideoEmbed';
 
 ![Icon](./icons/text.png)
 
@@ -35,6 +35,6 @@ Change the text that is written to something else.
   Small, Normal and Narrow, are the current options for now.
 
 
-<GfyCat id="ShimmeringAnimatedHawaiianmonkseal"/>
+<VideoEmbed id="ShimmeringAnimatedHawaiianmonkseal"/>
 
 [free transform]: ../../mainmenu/edit/free-transform.md

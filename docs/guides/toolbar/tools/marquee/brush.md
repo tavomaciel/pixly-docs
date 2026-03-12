@@ -2,12 +2,12 @@
 title: Select brush
 sidebar_position: 2
 ---
-import GfyCat from '/src/components/GfyCat';
+import VideoEmbed from '/src/components/VideoEmbed';
 
 ![Icon](../icons/selectionpencil.png)
 
 Allow you to paint [selections].
 
-<GfyCat id="VibrantAdeptBettong"/>
+<VideoEmbed id="VibrantAdeptBettong"/>
 
 [selections]: ../../../selection/index.md

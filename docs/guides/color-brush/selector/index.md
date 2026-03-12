@@ -1,7 +1,7 @@
 ---
 title: Color Selector
 ---
-import GfyCat from '/src/components/GfyCat';
+import VideoEmbed from '/src/components/VideoEmbed';
 
 Whenever you tap the primary or secondary color with the [Color and Brush] expanded, you'll end up here, where you can edit that color to whatever you wish.
 
@@ -21,7 +21,7 @@ Have a notepad full of hex codes and want to type a color in? Hit **Hex**, type 
 
 Want to try a different way of editing the color? Try changing the **[Color system]**, by tapping RGB, HSB... Drag the buttons to the left to reveal other [color systems].
 
-<GfyCat id="DescriptiveAmpleFieldmouse"/>
+<VideoEmbed id="DescriptiveAmpleFieldmouse"/>
 
 [color and brush]: ../index.md
 [color system]: ./systems.md

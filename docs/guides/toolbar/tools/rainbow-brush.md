@@ -2,7 +2,7 @@
 title: Rainbow Brush
 sidebar_position: 3
 ---
-import GfyCat from '/src/components/GfyCat';
+import VideoEmbed from '/src/components/VideoEmbed';
 
 ![Icon](./icons/rainbowBrush.png)
 
@@ -33,9 +33,9 @@ This is more of a tool to play around and test colors.
   The hue the brush will start at on the next stroke, and the saturation and brightness the colors will have.
   
 
-<GfyCat id="WideeyedDistantAsianporcupine"/>
+<VideoEmbed id="WideeyedDistantAsianporcupine"/>
 
-<GfyCat id="AromaticOptimisticChital"/>
+<VideoEmbed id="AromaticOptimisticChital"/>
 
 [psc]: ../../color-brush/primary-secondary.md
 [palette]: ../../color-brush/palettes/index.md

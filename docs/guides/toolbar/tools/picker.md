@@ -2,7 +2,7 @@
 title: Color picker
 sidebar_position: 6
 ---
-import GfyCat from '/src/components/GfyCat';
+import VideoEmbed from '/src/components/VideoEmbed';
 
 ![Icon](./icons/color_picker.png)
 
@@ -20,6 +20,6 @@ The picker automatically switches back to the last tool you used after you use i
 
   If this option is set, the picker will set the [opacity] while picking. Otherwise it will ignore the opacity completely
   
-<GfyCat id="OldSentimentalHoatzin"/>
+<VideoEmbed id="OldSentimentalHoatzin"/>
 
 [opacity]: ../../color-brush/index.md#opacity

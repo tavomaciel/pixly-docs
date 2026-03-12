@@ -1,7 +1,7 @@
 ---
 title: Layers
 ---
-import GfyCat from '/src/components/GfyCat';
+import VideoEmbed from '/src/components/VideoEmbed';
 
 ### Layer Window
 
@@ -31,11 +31,11 @@ If your [project is transparent] your bottom layer will be able to have transpar
 All the layers of the current frame will be shown here, the green one is the selected layer. You can drag up or down to scroll through the list. Touching a layer and holding your finger down for a second will allow you to **move this layer** somewhere else.
 Swiping a layer left or right will delete it.
 
-<GfyCat id="FarawayFaithfulAmericanbobtail"/>
+<VideoEmbed id="FarawayFaithfulAmericanbobtail"/>
 
 If you delete or move something you didn't intend to. The [undo] button works fine for deletions and moves.
 
-<GfyCat id="ThreadbareUnevenHapuku"/>
+<VideoEmbed id="ThreadbareUnevenHapuku"/>
 
 ### [Merge]
 

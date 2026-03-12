@@ -2,8 +2,8 @@
 title: Replace
 sidebar_position: 2
 ---
-import GfyCat from '/src/components/GfyCat';
+import VideoEmbed from '/src/components/VideoEmbed';
 
 Pretty simple: Change all pixels of **color A** to **color B**.
 
-<GfyCat id="ScratchyGrayChuckwalla"/>
+<VideoEmbed id="ScratchyGrayChuckwalla"/>

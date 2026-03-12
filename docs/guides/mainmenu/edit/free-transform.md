@@ -2,11 +2,11 @@
 title: Free transform
 sidebar_position: 5
 ---
-import GfyCat from '/src/components/GfyCat';
+import VideoEmbed from '/src/components/VideoEmbed';
 
 You can use Free transform to do what the [basic transforms] can't, or even do it but with different settings.
 
-<GfyCat id="InformalMaleGodwit"/>
+<VideoEmbed id="InformalMaleGodwit"/>
 
 :::note
 Things to keep in mind:

@@ -2,14 +2,14 @@
 sidebar_position: 2
 title: Basics
 ---
-import GfyCat from '/src/components/GfyCat';
+import VideoEmbed from '/src/components/VideoEmbed';
 
 ### Moving the artboard
 
 The artboard in Pixly works similarly as the one in Google Maps. You can **drag the screen with _two fingers_** to **move** the artboard around, and if you **pinch these fingers**, you'll be able to **zoom** in and out.
 The zoom is limited such as you can't get the image smaller than 2x.
 
-<GfyCat id="SneakyIcyGartersnake"/>
+<VideoEmbed id="SneakyIcyGartersnake"/>
 
 ### Drawing
 
@@ -29,4 +29,4 @@ You should really read about [primary and secondary colors](color-brush/primary-
 The default brush is 1x1 pixel and totally solid. The brush affects a lot how your tools will look like, so you must always be aware of what it is like. You can access the brush settings by going into the [Color and brush](color-brush) in the lower-right corner, then hitting the top-most option that shows, the [Brush settings](color-brush/brush).
 
 **The ultmost shortcut** here, is that you can change the brush size without going into the brush settings. You just gotta touch the screen with **THREE** fingers (like making a circle with your thumb, index and middle fingers) and expanding or contracting them.
-<GfyCat id="BlackandwhiteTartGalapagosdove" />
+<VideoEmbed id="BlackandwhiteTartGalapagosdove" />

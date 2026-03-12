@@ -2,7 +2,7 @@
 title: Eraser
 sidebar_position: 7
 ---
-import GfyCat from '/src/components/GfyCat';
+import VideoEmbed from '/src/components/VideoEmbed';
 
 ![Icon](./icons/eraser.png)
 
@@ -12,7 +12,7 @@ In layers that have no [transparency], like the bottom layer of non-transparent 
 
 Keep in mind that [opacity] is also valid for the eraser.
 
-<GfyCat id="MenacingSlimyDragonfly"/>
+<VideoEmbed id="MenacingSlimyDragonfly"/>
 
 [transparency]: ../../mainmenu/colors-filters/transparency.md
 [opacity]: ../../color-brush/index.md#opacity

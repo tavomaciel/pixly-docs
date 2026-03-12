@@ -2,7 +2,7 @@
 title: Rectangle
 sidebar_position: 16
 ---
-import GfyCat from '/src/components/GfyCat';
+import VideoEmbed from '/src/components/VideoEmbed';
 
 ![Icon](./icons/rect.png)
 
@@ -18,4 +18,4 @@ Drag to draw rectangles and squares!
   
   The retangle will come out filled
 
-<GfyCat id="TautNextGaur"/>
+<VideoEmbed id="TautNextGaur"/>

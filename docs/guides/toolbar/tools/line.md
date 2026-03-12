@@ -2,7 +2,7 @@
 title: Line
 sidebar_position: 12
 ---
-import GfyCat from '/src/components/GfyCat';
+import VideoEmbed from '/src/components/VideoEmbed';
 
 ![Icon](./icons/line.png)
 
@@ -19,4 +19,4 @@ Well... it draws lines.
   :::
   
 
-<GfyCat id="CoolShallowBumblebee"/>
+<VideoEmbed id="CoolShallowBumblebee"/>

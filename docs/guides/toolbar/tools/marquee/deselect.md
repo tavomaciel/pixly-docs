@@ -2,12 +2,12 @@
 title: Deselect
 sidebar_position: 4
 ---
-import GfyCat from '/src/components/GfyCat';
+import VideoEmbed from '/src/components/VideoEmbed';
 
 ![Icon](../icons/marqueedel.png)
 
 Remove rectangles from the [selection].
 
-<GfyCat id="WindingMildAddax"/>
+<VideoEmbed id="WindingMildAddax"/>
 
 [selection]: ../../../selection/index.md

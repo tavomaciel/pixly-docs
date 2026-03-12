@@ -2,12 +2,12 @@
 title: Select
 sidebar_position: 3
 ---
-import GfyCat from '/src/components/GfyCat';
+import VideoEmbed from '/src/components/VideoEmbed';
 
 ![Icon](../icons/marqueeadd.png)
 
 Add rectangles to the [selection].
 
-<GfyCat id="AdorableClosedIcefish"/>
+<VideoEmbed id="AdorableClosedIcefish"/>
 
 [selection]: ../../../selection

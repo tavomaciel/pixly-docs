@@ -2,7 +2,7 @@
 title: Move
 sidebar_position: 1
 ---
-import GfyCat from '/src/components/GfyCat';
+import VideoEmbed from '/src/components/VideoEmbed';
 
 ![Icon](./icons/move.png)
 
@@ -15,6 +15,6 @@ Allows you to move your whole image, or just a part of it when a [selection] is 
   When enabled, if the image goes out of the boundaries, it will reappear on the other side.  
   Enabled by default.
 
-<GfyCat id="SomberShyFishingcat"/>
+<VideoEmbed id="SomberShyFishingcat"/>
 
 [selection]: ../../selection/index.md

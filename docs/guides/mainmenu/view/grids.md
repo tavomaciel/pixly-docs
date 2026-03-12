@@ -2,7 +2,7 @@
 title: Grids
 sidebar_position: 3
 ---
-import GfyCat from '/src/components/GfyCat';
+import VideoEmbed from '/src/components/VideoEmbed';
 
 Pixly allows you to set up as many different grids you want on your artboard. Here's what you need to know to customize a grid:
 
@@ -36,5 +36,5 @@ Pixly allows you to set up as many different grids you want on your artboard. He
 :::note
 If you have lots of grids, they will only be shown if they're big enough to show something substantial on the screen.
 
-<GfyCat id="CloudyCircularDugong"/>
+<VideoEmbed id="CloudyCircularDugong"/>
 :::

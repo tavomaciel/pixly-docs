@@ -1,7 +1,7 @@
 ---
 title: Brush
 ---
-import GfyCat from '/src/components/GfyCat';
+import VideoEmbed from '/src/components/VideoEmbed';
 
 ![Brush](./brush.png)
 
@@ -19,7 +19,7 @@ Drag to change the brush size.
 Remember that trick of the basics page? no?
 
 > **The ultmost shortcut** here, is that you can change the brush size without going into the brush settings. You just gotta touch the screen with **THREE** fingers (like making a circle with your thumb, index and middle fingers) and expanding or contracting them.
-> <GfyCat id="BlackandwhiteTartGalapagosdove" />
+> <VideoEmbed id="BlackandwhiteTartGalapagosdove" />
 
 ### Brush hardness
 When you have a large brush, makes the brush softer or harder. It pretty much controls the opacity throughout the brush.

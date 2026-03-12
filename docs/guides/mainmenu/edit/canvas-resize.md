@@ -2,7 +2,7 @@
 title: Resize canvas
 sidebar_position: 3
 ---
-import GfyCat from '/src/components/GfyCat';
+import VideoEmbed from '/src/components/VideoEmbed';
 
 Whether you run out of space on your artboard, or want it to be smaller to better fit your art, resizing the canvas is an easy and intuitive operation on Pixly.
 
@@ -10,4 +10,4 @@ You don't need to guess a good width and height in number and type in. Resizing 
 
 Still want to see the width and height in numbers? No problem! They're still there ;)
 
-<GfyCat id="ZealousYearlyBunting"/>
+<VideoEmbed id="ZealousYearlyBunting"/>

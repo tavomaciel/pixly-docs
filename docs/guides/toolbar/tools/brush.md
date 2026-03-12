@@ -2,10 +2,10 @@
 title: Brush
 sidebar_position: 2
 ---
-import GfyCat from '/src/components/GfyCat';
+import VideoEmbed from '/src/components/VideoEmbed';
 
 ![Icon](./icons/pencil.png)
 
 The most common tool, and also the one which Pixly always starts with.
 
-<GfyCat id="SnappyQuickIcterinewarbler"/>
+<VideoEmbed id="SnappyQuickIcterinewarbler"/>

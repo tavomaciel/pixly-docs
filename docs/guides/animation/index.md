@@ -1,7 +1,7 @@
 ---
 title: Animation
 ---
-import GfyCat from '/src/components/GfyCat';
+import VideoEmbed from '/src/components/VideoEmbed';
 
 ### Timeline
 
@@ -19,11 +19,11 @@ You can drag left or right to scroll through the list.
 Touching a frame and holding your finger down for a second will allow you to **move this frame** somewhere else.
 Swiping a frame up or down will completely delete it.
 
-<GfyCat id="BelatedSoftKittiwake"/>
+<VideoEmbed id="BelatedSoftKittiwake"/>
 
 Don't shed tears if you delete or move something you didn't intend to. The [undo] button works fine for deletions and moves. Just hit it some times until it goes back to a place where you find yourself fine.
 
-<GfyCat id="WastefulSardonicEgg"/>
+<VideoEmbed id="WastefulSardonicEgg"/>
 
 ### [Remove]
 

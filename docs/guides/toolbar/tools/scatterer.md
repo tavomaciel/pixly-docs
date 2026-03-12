@@ -2,7 +2,7 @@
 title: Scatterer (Spray)
 sidebar_position: 4
 ---
-import GfyCat from '/src/components/GfyCat';
+import VideoEmbed from '/src/components/VideoEmbed';
 
 ![Icon](./icons/scatter.png)
 
@@ -27,6 +27,6 @@ You may know it by the name **spray** on other art software.
   Setting the all variation to $$0$$ will make the scatterer spit only pixels of the color of your [selected color].
   
 
-<GfyCat id="JauntyScalyAmericancicada"/>
+<VideoEmbed id="JauntyScalyAmericancicada"/>
 
 [selected color]: ../../color-brush/primary-secondary.md

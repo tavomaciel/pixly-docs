@@ -2,7 +2,7 @@
 title: Copy and paste
 sidebar_position: 2
 ---
-import GfyCat from '/src/components/GfyCat';
+import VideoEmbed from '/src/components/VideoEmbed';
 
 Pixly has its own clipboard system for copy and paste (independent from the Android clipboard).
 
@@ -15,7 +15,7 @@ This means that you can copy and paste areas of images inside Pixly, even though
 + Move, scale and rotate as desired;
 + Enjoy
 
-<GfyCat id="SmoothInfamousFirefly"/>
+<VideoEmbed id="SmoothInfamousFirefly"/>
 
 :::info
 All pixels that are the same color as the [secondary color] will be interpreted as background, and won't be copied. If you have problems making copy-paste work, try resetting your secondary color **before copying** something.

@@ -2,7 +2,7 @@
 title: Gradient fill
 sidebar_position: 11
 ---
-import GfyCat from '/src/components/GfyCat';
+import VideoEmbed from '/src/components/VideoEmbed';
 
 ![Icon](./icons/gradient.png)
 
@@ -35,7 +35,7 @@ The gradient will be applied on the entire artboard, unless you have something [
   A shortcut to change the [pattern] of the dither.
   
 
-<GfyCat id="MediumDisguisedJaeger"/>
+<VideoEmbed id="MediumDisguisedJaeger"/>
 (This sample had 4 colors and dithering set to 12%)
 
 [pattern]: ../../color-brush/brush/patterns.md

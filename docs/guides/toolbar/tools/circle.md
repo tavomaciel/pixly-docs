@@ -2,7 +2,7 @@
 title: Circle
 sidebar_position: 15
 ---
-import GfyCat from '/src/components/GfyCat';
+import VideoEmbed from '/src/components/VideoEmbed';
 
 ![Icon](./icons/circle.png)
 
@@ -19,4 +19,4 @@ Drag to draw ellipses and circles!
   The circle will come out filled
   
 
-<GfyCat id="BaggyImmediateIlladopsis"/>
+<VideoEmbed id="BaggyImmediateIlladopsis"/>
