@@ -5,8 +5,27 @@
     "description": "Pixly Changelog",
     "items": [
         {
-            "id": "/2021/12/27/new-site",
-            "content_html": "<p>Welcome to the new Pixly site. It&#x27;s been a while since the site last got a refresher, and since it started to return 403s at some point, I decided to migrate it to this new domain and upgrade a few things!</p><p>...</p><p>To start, <strong>every GIF has been fixed</strong>. At some point in the last 4 years GfyCat changed their API and the embedded GIFs here in the guide all went missing, but now they&#x27;re back!</p><p>Some of the documentation has also been updated, and <strong>wording has been improved</strong>. My English skills are now much better than when I first wrote all these :)</p><p>The documentation is now a modern web app. It has always been fully server-side rendered, but it would refresh the whole page when you navigated somewhere else. While that was still very fast (every render was obviously cached), it still wasn&#x27;t as instantaneous as it is now, as the browser fetches the content dynamically as you navigated. For the nerdies out there, the new site is developed with <a href=\"https://docusaurus.io\">docusaurus</a>, and you see all the source on <a href=\"https://github.com/tavomaciel/pixly-docs\">GitHub</a></p><p>Speaking of source, that also means that everyone can contribute to the guides, or help fix existing problems! You can find all the Markdown files for every guide page on <a href=\"https://github.com/tavomaciel/pixly-docs/tree/main/docs\">GitHub</a> and submit your pull requests with changes!</p><p>This new site also include the <a href=\"/changelog\">changelog</a> section (<em>which you are reading right now!</em>) and it will include information about any new updates to the app or site in the future. Changelogs are going to be a little bit more formal from the next post, so I also plan to include a DevLog in this site at some point, so I can talk about how things are being developed, and what to expect.</p><p>Stay tuned for the Pixly updates coming in 2022! There&#x27;s a lot already implemented for 1.8, and if you want a spoiler, check the <a href=\"https://trello.com/b/271M0NG9/pixly-todo\">roadmap</a>!</p>",
+            "id": "https://pixly.tavomaciel.com/changelog/2026/03/12/fixing-site",
+            "content_html": "<p>Casually coming back and fixing a few things that have been broken in the site for a while now!</p>\n<ul>\n<li class=\"\">Fixed video embeds in the site<!-- -->\n<ul>\n<li class=\"\">Last time Gfycat changed their API, but the whole site was archived :(. Luckily archive.org had a backup of some videos. They're not as high resolution but they work! Fully hosted on the site now.</li>\n</ul>\n</li>\n<li class=\"\">Removed mention to Twitter / X</li>\n<li class=\"\">Fixed avatar on About</li>\n<li class=\"\">Fixing some spellings</li>\n</ul>",
+            "url": "https://pixly.tavomaciel.com/changelog/2026/03/12/fixing-site",
+            "title": "Casual fixes in the site",
+            "summary": "Faster, Updated guides with GIFs and more transparency to users!",
+            "date_modified": "2026-03-12T00:00:00.000Z",
+            "author": {
+                "name": "Gustavo Maciel",
+                "url": "https://twitter.com/gtoknu"
+            },
+            "tags": [
+                "site",
+                "guide",
+                "devlog",
+                "changelog",
+                "enhancement"
+            ]
+        },
+        {
+            "id": "https://pixly.tavomaciel.com/changelog/2021/12/27/new-site",
+            "content_html": "<p>Welcome to the new Pixly site. It's been a while since the site last got a refresher, and since it started to return 403s at some point, I decided to migrate it to this new domain and upgrade a few things!</p>\n<p>...</p>\n<p>To start, <strong>every GIF has been fixed</strong>. At some point in the last 4 years GfyCat changed their API and the embedded GIFs here in the guide all went missing, but now they're back!</p>\n<p>Some of the documentation has also been updated, and <strong>wording has been improved</strong>. My English skills are now much better than when I first wrote all these :)</p>\n<p>The documentation is now a modern web app. It has always been fully server-side rendered, but it would refresh the whole page when you navigated somewhere else. While that was still very fast (every render was obviously cached), it still wasn't as instantaneous as it is now, as the browser fetches the content dynamically as you navigated. For the nerdies out there, the new site is developed with <a href=\"https://docusaurus.io/\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"\">docusaurus</a>, and you see all the source on <a href=\"https://github.com/tavomaciel/pixly-docs\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"\">GitHub</a></p>\n<p>Speaking of source, that also means that everyone can contribute to the guides, or help fix existing problems! You can find all the Markdown files for every guide page on <a href=\"https://github.com/tavomaciel/pixly-docs/tree/main/docs\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"\">GitHub</a> and submit your pull requests with changes!</p>\n<p>This new site also include the <a class=\"\" href=\"https://pixly.tavomaciel.com/changelog\">changelog</a> section (<em>which you are reading right now!</em>) and it will include information about any new updates to the app or site in the future. Changelogs are going to be a little bit more formal from the next post, so I also plan to include a DevLog in this site at some point, so I can talk about how things are being developed, and what to expect.</p>\n<p>Stay tuned for the Pixly updates coming in 2022! There's a lot already implemented for 1.8, and if you want a spoiler, check the <a href=\"https://trello.com/b/271M0NG9/pixly-todo\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"\">roadmap</a>!</p>",
             "url": "https://pixly.tavomaciel.com/changelog/2021/12/27/new-site",
             "title": "Pixly site has just been refreshed!",
             "summary": "Faster, Updated guides with GIFs and more transparency to users!",
@@ -14,7 +33,14 @@
             "author": {
                 "name": "Gustavo Maciel",
                 "url": "https://twitter.com/gtoknu"
-            }
+            },
+            "tags": [
+                "site",
+                "guide",
+                "devlog",
+                "changelog",
+                "enhancement"
+            ]
         }
     ]
 }

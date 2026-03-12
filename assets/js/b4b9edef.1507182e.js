@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkpixly_docs=globalThis.webpackChunkpixly_docs||[]).push([[360],{3284(t){t.exports=JSON.parse('{"authors":[{"name":"Gustavo Maciel","title":"Creator of Pixly","url":"https://twitter.com/gtoknu","key":"gmaciel","page":null,"count":2}]}')}}]);

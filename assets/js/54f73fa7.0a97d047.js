@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkpixly_docs=self.webpackChunkpixly_docs||[]).push([[5988],{9557:function(e){e.exports=JSON.parse('{"allTagsPath":"/changelog/tags","slug":"/changelog/tags/enhancement","name":"enhancement","count":1,"permalink":"/changelog/tags/enhancement"}')}}]);

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkpixly_docs=self.webpackChunkpixly_docs||[]).push([[2535],{5641:function(e){e.exports=JSON.parse('{"title":"Recent updates","items":[{"title":"Pixly site has just been refreshed!","permalink":"/changelog/2021/12/27/new-site"}]}')}}]);

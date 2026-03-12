@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkpixly_docs=self.webpackChunkpixly_docs||[]).push([[29],{4076:function(e){e.exports=JSON.parse('{"permalink":"/changelog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"previousPage":null,"nextPage":null,"blogDescription":"Changelog","blogTitle":"Changelog"}')}}]);

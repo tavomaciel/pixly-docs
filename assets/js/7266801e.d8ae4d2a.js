@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkpixly_docs=self.webpackChunkpixly_docs||[]).push([[3425],{4493:function(e){e.exports=JSON.parse('{"allTagsPath":"/changelog/tags","slug":"/changelog/tags/guide","name":"guide","count":1,"permalink":"/changelog/tags/guide"}')}}]);

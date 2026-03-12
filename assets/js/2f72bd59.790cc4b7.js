@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkpixly_docs=globalThis.webpackChunkpixly_docs||[]).push([[5832],{9990(a){a.exports=JSON.parse('{"metadata":{"permalink":"/changelog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":2,"blogDescription":"Changelog","blogTitle":"Changelog"}}')}}]);
